@@ -81,6 +81,5 @@ The reports developed in this project are crucial for:
 This project equips AtliQ with actionable insights into its sales and financial performance, enabling informed decision-making and strategic planning. AtliQ can optimize operations, improve profitability, and achieve sustainable growth by leveraging advanced Excel techniques and thorough analysis.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://codebasics.io/portfolio/Madiha-Shaik)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madiha-shaik-24871a204)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanulla-shaik-aa4525271/)
 
